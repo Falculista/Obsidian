@@ -68,16 +68,14 @@
             "id": "8940a4bf36b1bfea",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "04 - Estudos/Física/00 - Extra/Problemas/00 - Lista de Problemas.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 845,
-                "zoom": 1.5151006711409396
+                "file": "04 - Estudos/Física/00 - Extra/Problemas - Carmen Lys/04 - Princípio de Arquimedes no Espaço.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "00 - Lista de Problemas"
+              "icon": "lucide-file",
+              "title": "04 - Princípio de Arquimedes no Espaço"
             }
           }
         ],
@@ -264,15 +262,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf293b84c14e5951",
+  "active": "8940a4bf36b1bfea",
   "lastOpenFiles": [
-    "04 - Estudos/Física/00 - Extra/Problemas",
+    "04 - Estudos/Física/00 - Extra/Problemas - Carmen Lys/00 - Lista de Problemas.pdf",
+    "04 - Estudos/Física/00 - Extra/Problemas - Carmen Lys/04 - Princípio de Arquimedes no Espaço.md",
+    "04 - Estudos/Física/00 - Extra/Problemas - Carmen Lys",
     "04 - Estudos/Física/00 - Extra/Curiosidades",
     "teste.md",
     "teste 2.md",
     "06 - Livros/Todos os tópicos - Cangas ITA.pdf",
     "06 - Livros/Moysés Vol. 02 - 5ª Ed.pdf",
-    "04 - Estudos/Física/00 - Extra/Problemas/00 - Lista de Problemas.pdf",
     "06 - Livros",
     "04 - Estudos/Matemática/05 - Cálculo/01 - Introdução/02 - O método da Exaustão e Arquimedes.md",
     "00 - Banco de Imagens/Pasted image 20261102190637.png",
@@ -314,8 +313,6 @@
     "04 - Estudos/Economia/Livros/Paul Krugman/10 - Novas Direções aos Mercados",
     "04 - Estudos/Economia/Livros/Paul Krugman/09 - Microeconomia e Políticas Públicas",
     "04 - Estudos/Economia/Livros/Paul Krugman/08 - Limites do Mercado",
-    "04 - Estudos/Economia/Livros/Paul Krugman/07 - Estrutura de Mercado",
-    "04 - Estudos/Economia/Khan Academy/Microeconomia/01 - Conceitos Básicos de Economia/01 - Introdução à Economia/01 - Introdução à Economia.md",
     "04 - Estudos/História/05 - Idade Contemporânea/Revolução Russa.canvas",
     "04 - Estudos/História/05 - Idade Contemporânea/Revolução Francesa.canvas",
     "04 - Estudos/História/05 - Idade Contemporânea/Comuna de Paris.canvas",
