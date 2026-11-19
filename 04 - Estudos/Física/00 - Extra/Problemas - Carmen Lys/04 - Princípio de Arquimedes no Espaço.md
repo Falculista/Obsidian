@@ -3,5 +3,7 @@
 
 Para iniciar nossa resolução, é interessante começar pela análise do próprio enunciado. A questão nos diz que "o óleo, por ser menos denso, fica por cima da água", portanto, para início de discussão, cabe verificar as seguintes perguntas acerca do que nos foi dado: 
 
-1. A densidade depende da gravidade?
-2. 
+1. Como os líquidos se separam?
+2. A densidade depende da gravidade?
+3. Como a gravidade atua na densidade?
+4. E, por fim, como a gravidade atu
