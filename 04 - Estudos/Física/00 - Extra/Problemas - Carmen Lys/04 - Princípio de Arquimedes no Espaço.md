@@ -6,4 +6,8 @@ Para iniciar nossa resolução, é interessante começar pela análise do própr
 1. Como os líquidos se separam?
 2. A densidade depende da gravidade?
 3. Como a gravidade atua na densidade?
-4. E, por fim, como a gravidade atu
+4. E, por fim, como a gravidade pode atuar na separação de líquidos?
+
+---
+
+## Como os líquidos se separam?

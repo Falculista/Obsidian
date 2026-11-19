@@ -77,9 +77,25 @@
               "icon": "lucide-file",
               "title": "04 - Princípio de Arquimedes no Espaço"
             }
+          },
+          {
+            "id": "2cd4c86b0e8865b4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "06 - Livros/Moysés Vol. 02 - 5ª Ed.pdf",
+                "page": 1,
+                "left": -9,
+                "top": 691,
+                "zoom": 1.7959427207637233
+              },
+              "icon": "lucide-file-text",
+              "title": "Moysés Vol. 02 - 5ª Ed"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -262,10 +278,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8940a4bf36b1bfea",
+  "active": "2cd4c86b0e8865b4",
   "lastOpenFiles": [
-    "04 - Estudos/Física/00 - Extra/Problemas - Carmen Lys/00 - Lista de Problemas.pdf",
     "04 - Estudos/Física/00 - Extra/Problemas - Carmen Lys/04 - Princípio de Arquimedes no Espaço.md",
+    "04 - Estudos/Física/00 - Extra/Problemas - Carmen Lys/00 - Lista de Problemas.pdf",
     "04 - Estudos/Física/00 - Extra/Problemas - Carmen Lys",
     "04 - Estudos/Física/00 - Extra/Curiosidades",
     "teste.md",
