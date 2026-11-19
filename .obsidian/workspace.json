@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teste.md",
+                "file": "teste 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "teste"
+              "title": "teste 2"
             }
           }
         ],
@@ -262,12 +262,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf293b84c14e5951",
+  "active": "8940a4bf36b1bfea",
   "lastOpenFiles": [
+    "teste.md",
+    "teste 2.md",
     "06 - Livros/Todos os tópicos - Cangas ITA.pdf",
     "06 - Livros/Moysés Vol. 02 - 5ª Ed.pdf",
     "06 - Livros/Lista de Problemas.pdf",
-    "teste.md",
     "06 - Livros",
     "04 - Estudos/Matemática/05 - Cálculo/01 - Introdução/02 - O método da Exaustão e Arquimedes.md",
     "00 - Banco de Imagens/Pasted image 20261102190637.png",
@@ -311,7 +312,6 @@
     "04 - Estudos/Economia/Livros/Paul Krugman/08 - Limites do Mercado",
     "04 - Estudos/Economia/Livros/Paul Krugman/07 - Estrutura de Mercado",
     "04 - Estudos/Economia/Livros/Paul Krugman/06 - Mercados e Eficiência",
-    "04 - Estudos/Economia/Livros/Paul Krugman/05 - O Consumidor",
     "04 - Estudos/Economia/Khan Academy/Microeconomia/01 - Conceitos Básicos de Economia/01 - Introdução à Economia/01 - Introdução à Economia.md",
     "05 - Anotações e Dissertações/Redações/A Popularização das Canetas Emagrecedoras e os Riscos da Automedicação no Brasil.md",
     "04 - Estudos/História/05 - Idade Contemporânea/Revolução Russa.canvas",
