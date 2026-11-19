@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"b3ef982edb4eb54e","type":"group","x":-520,"y":-400,"width":1520,"height":2300,"label":"Slides"},
+		{"id":"281b3118866dfac1","type":"text","text":"","x":-440,"y":920,"width":1370,"height":920},
+		{"id":"b3a707957f6062da","type":"file","file":"00 - Banco de Imagens e Áudios/Questão Territorial.png","x":-401,"y":1070,"width":1293,"height":620,"color":"#000000"},
+		{"id":"642e4ddb289ce11a","type":"text","text":"# $$\\large\\text{Slide}\\space 2$$","x":-25,"y":780,"width":520,"height":120,"color":"#000000"},
+		{"id":"6e28418ec03a5b3d","type":"text","text":"# $$\\large\\text{Slide}\\space 1$$","x":-25,"y":-360,"width":520,"height":120,"color":"#000000"},
+		{"id":"34d81f32d207db6f","type":"text","text":"                                                                            \n                                                                            \n                                                                            \n                                                                ","x":-450,"y":-200,"width":1370,"height":920},
+		{"id":"0d0a257b75d1e6b1","type":"text","text":"- ### Pós-guerra -> novos proprietários (fazendeiros) nas terras indígenas","x":140,"y":290,"width":660,"height":100,"color":"#000000"},
+		{"id":"98a6019e97ae482e","type":"text","text":"- ### Guerra do Paraguai ($1864-1870$) -> lutou ao lado do Brasil","x":140,"y":140,"width":660,"height":100,"color":"#000000"},
+		{"id":"a20a1c9ebf55d58b","type":"text","text":"Foto de dois Terena que lutaram na guerra do Paraguai","x":-317,"y":580,"width":320,"height":100,"color":"#000000"},
+		{"id":"8b3e45d2de986961","type":"file","file":"00 - Banco de Imagens e Áudios/Terena.png","x":-360,"y":0,"width":406,"height":580},
+		{"id":"d88bf1483695a544","type":"text","text":"- ### Contato direto com a sociedade não indígena desde o século $XVIII$","x":140,"y":0,"width":660,"height":100,"color":"#000000"},
+		{"id":"227b7c3c2d04c083","type":"text","text":"# $$\\large\\color{red}\\text{Histórico de Contato}$$","x":-417,"y":-160,"width":520,"height":120,"color":"#000000"},
+		{"id":"6a3212a145261344","type":"text","text":"- ### Tempo de servidão -> indígenas explorados por fazendeiros","x":140,"y":440,"width":660,"height":100,"color":"#000000"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"1ba87d0410808765","x":-221,"y":-20,"width":261,"height":80,"type":"text","text":"# Arquitetura"},
+		{"id":"0a00699bfdb6436d","x":-346,"y":120,"width":250,"height":60,"type":"text","text":""},
+		{"id":"67e471fa02a8bc94","x":-85,"y":120,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}

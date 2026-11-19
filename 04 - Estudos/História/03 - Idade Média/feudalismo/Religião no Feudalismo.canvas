@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"a6461a1c06c5568e","type":"text","text":"# Religião Feudal\n\n***CRISTIANISMO***","x":-121,"y":-57,"width":301,"height":97},
+		{"id":"ec2e955a42728a0d","type":"text","text":"## Governo por Medo\nA Igreja governava por meio do medo,","x":300,"y":-135,"width":378,"height":254},
+		{"id":"5343e677f669273d","type":"text","text":"## Pecados Capitais\nOs pecados capitais eram pecados que a igreja dizia imperdoáveis.","x":-187,"y":200,"width":433,"height":140},
+		{"id":"8406dad708849a92","type":"text","text":"## Perseguição a Hereges\n\n Pessoas com ideias que se opusessem às ideias da igreja eram consideradas hereges e eram perseguidas pela igreja.\n Essas pessoas eram levadas ao **Santo Ofício**, onde era julgada e muitas vezes condenadas à morte.\n\n\nComentar sobre Galileu Galilei","x":-773,"y":-227,"width":433,"height":427},
+		{"id":"e374aed448c83eb3","type":"text","text":"## Galileo Galilei no Santo Ofício\n\n![[galileo_galilei_perante_santo_oficio.png|center|500]] \n<p style=\"font-size:10;text-align:center\">Pintura de Joseph-Nicolas Robert-Fleury, feita em 1847, retratando Galileo Galilei no santo ofício.<br>Domínio Público</p>","x":-846,"y":271,"width":580,"height":489},
+		{"id":"eaeff8c275f71f4c","type":"text","text":"## Carta de Indulgência\nPague a igreja para que ela perdoe os seus pecados até então ditos imperdoáveis","x":320,"y":192,"width":333,"height":157},
+		{"id":"28d4afd679ed2b69","x":-761,"y":-580,"width":410,"height":257,"type":"text","text":"## Hierarquia"},
+		{"id":"ca05713c101629e6","type":"text","text":"## A Catequese de Constantino","x":273,"y":-580,"width":433,"height":300}
+	],
+	"edges":[
+		{"id":"fe00b9e05abe1107","fromNode":"5343e677f669273d","fromSide":"right","toNode":"eaeff8c275f71f4c","toSide":"left"},
+		{"id":"6ec84d5b5222674e","fromNode":"a6461a1c06c5568e","fromSide":"bottom","toNode":"5343e677f669273d","toSide":"top"},
+		{"id":"4a1387670b5c48f4","fromNode":"a6461a1c06c5568e","fromSide":"left","toNode":"8406dad708849a92","toSide":"right"},
+		{"id":"d417ec9580eabc59","fromNode":"a6461a1c06c5568e","fromSide":"top","toNode":"ca05713c101629e6","toSide":"bottom"},
+		{"id":"620b25e5d71e9264","fromNode":"a6461a1c06c5568e","fromSide":"right","toNode":"ec2e955a42728a0d","toSide":"left"},
+		{"id":"78d0f9450ed000ca","fromNode":"8406dad708849a92","fromSide":"bottom","toNode":"e374aed448c83eb3","toSide":"top"},
+		{"id":"fe3240cfaf6cf1d4","fromNode":"a6461a1c06c5568e","fromSide":"top","toNode":"28d4afd679ed2b69","toSide":"right"}
+	]
+}

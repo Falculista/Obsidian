@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"9b2de383303bbf4f","type":"text","text":"# Questão Territorial","x":-180,"y":-120,"width":250,"height":120,"color":"4"},
+		{"id":"df7508c485800fb3","type":"text","text":"### Luta atual","x":-308,"y":80,"width":188,"height":60,"color":"5"},
+		{"id":"74593e576432cc56","type":"text","text":"###### Agronegócio","x":-90,"y":200,"width":200,"height":60,"color":"5"},
+		{"id":"5406ab216a7dcacf","type":"text","text":"###### Disputas fundiárias","x":-390,"y":260,"width":250,"height":60,"color":"5"},
+		{"id":"5f5d58fc2680b741","type":"text","text":"###### Ocupações não indígenas","x":-660,"y":170,"width":220,"height":90,"color":"5"},
+		{"id":"c9f32cf41992524c","type":"text","text":"### Central na história","x":-340,"y":-320,"width":200,"height":87,"color":"1"},
+		{"id":"2bb048d77e12ba7b","type":"text","text":"### Território fragmentado ","x":180,"y":-153,"width":220,"height":93,"color":"2"},
+		{"id":"fbf788ca8b07b6af","type":"text","text":"###### Áreas cercadas por fazendas","x":80,"y":-320,"width":210,"height":94,"color":"2"},
+		{"id":"b5c4da52ce994df8","type":"text","text":"###### Espalhados em munícipios do MS","x":120,"y":35,"width":238,"height":75,"color":"2"},
+		{"id":"a3da539904300abc","type":"text","text":"###### Grande parte fora do controle dos Terena","x":482,"y":-153,"width":218,"height":133,"color":"2"}
+	],
+	"edges":[
+		{"id":"ab069f44c3ae8046","fromNode":"df7508c485800fb3","fromSide":"right","toNode":"74593e576432cc56","toSide":"top","color":"5"},
+		{"id":"1e2e3c26b4941cd3","fromNode":"9b2de383303bbf4f","fromSide":"bottom","toNode":"df7508c485800fb3","toSide":"top","color":"4"},
+		{"id":"63ca5f05bed3a656","fromNode":"9b2de383303bbf4f","fromSide":"right","toNode":"2bb048d77e12ba7b","toSide":"left","color":"4"},
+		{"id":"52e31cdf11584df8","fromNode":"9b2de383303bbf4f","fromSide":"top","toNode":"c9f32cf41992524c","toSide":"bottom","color":"4"},
+		{"id":"f30961c83ff63dd9","fromNode":"df7508c485800fb3","fromSide":"bottom","toNode":"5406ab216a7dcacf","toSide":"top","color":"5"},
+		{"id":"9c3a91e6933bf866","fromNode":"df7508c485800fb3","fromSide":"left","toNode":"5f5d58fc2680b741","toSide":"right","color":"5"},
+		{"id":"6e9c3ce70af223e1","fromNode":"2bb048d77e12ba7b","fromSide":"bottom","toNode":"b5c4da52ce994df8","toSide":"top","color":"2"},
+		{"id":"843b39c37612a618","fromNode":"2bb048d77e12ba7b","fromSide":"top","toNode":"fbf788ca8b07b6af","toSide":"bottom","color":"2"},
+		{"id":"422febdf856a5a13","fromNode":"2bb048d77e12ba7b","fromSide":"right","toNode":"a3da539904300abc","toSide":"left","color":"2"}
+	]
+}

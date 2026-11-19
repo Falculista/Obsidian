@@ -1,0 +1,1 @@
+Nestas duas anotações intituladas como "Entenda a Economia", veremos como, na visão de Ladislau Dowbor, um economista brasileiro, 

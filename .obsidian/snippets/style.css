@@ -1,0 +1,26 @@
+body {
+    text-align: justify;
+}
+
+img[alt*="center"], video[alt*="center"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img[alt*="left"], video[alt*="left"]{
+    float:left;
+    clear:left;
+    margin-right: 1rem;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+
+img[alt*="right"], video[alt*="right"]{
+    float:right;
+    clear:right;
+    margin-left: 1rem;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}

@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"3380e8c8e5fb3a1e","type":"text","text":"## $$E=P\\Delta t$$","x":860,"y":-100,"width":190,"height":120,"color":"3"},
+		{"id":"412403d3b91bbcb1","type":"text","text":"","x":470,"y":125,"width":360,"height":715,"color":"6"},
+		{"id":"4fc1e32dddedfcc1","x":115,"y":-440,"width":250,"height":80,"color":"4","type":"text","text":"# Fórmulas"},
+		{"id":"9c75d1e9b809de89","type":"text","text":"Sabendo que: $$i = \\frac{Q}{\\Delta t}$$\ne que a potência é a velocidade no qual a energia é transferida: $$P = \\frac{E}{\\Delta t}$$\nnós veremos que, por conta da energia de uma corrente ser o produto da carga pela diferença de potencial em dois pontos $A$ e $B$: $$E = q\\cdot U_{AB}$$\no potencial elétrico será definido então por: $$P = \\frac{q\\cdot U_{AB}}{\\Delta t}$$\ne por conta da primeira fórmula, nós veremos que o $q$ com o $\\Delta t$ forma $i$ e então chegaremos em:$$P=i\\cdot U$$","x":55,"y":125,"width":380,"height":715,"color":"6"},
+		{"id":"2bde2ef6834f99de","type":"text","text":"","x":-370,"y":125,"width":380,"height":715,"color":"6"},
+		{"id":"5a284b7e0c1d2b08","x":-760,"y":125,"width":360,"height":715,"color":"6","type":"text","text":""},
+		{"id":"0eb7d8f343b03978","type":"text","text":"","x":860,"y":125,"width":360,"height":715,"color":"6"},
+		{"id":"869e2efa665b5fa7","type":"text","text":"## $$P = i\\cdot U$$","x":120,"y":-100,"width":250,"height":120,"color":"4"},
+		{"id":"2d2a17d763fe6a5d","type":"text","text":"## $$P = R\\cdot i²$$","x":470,"y":-100,"width":250,"height":120,"color":"3"},
+		{"id":"f2a039906101782b","x":-280,"y":-100,"width":250,"height":140,"color":"3","type":"text","text":"## $$P = \\frac{U²}{R}$$"},
+		{"id":"149b933723f9802e","type":"text","text":"## $$R= \\frac{U}{i}$$","x":-610,"y":-100,"width":240,"height":140,"color":"3"},
+		{"id":"cf4aea12a6359833","type":"text","text":"## $$E = k\\cdot \\frac{Q}{d²}$$","x":115,"y":-800,"width":250,"height":140,"color":"3"},
+		{"id":"71b8d2b32b7f2f0f","type":"text","text":"## $$i=\\frac{\\Delta Q}{\\Delta t}$$","x":610,"y":-800,"width":250,"height":140,"color":"3"},
+		{"id":"55eb3fcd8e0174c7","x":-480,"y":-1420,"width":400,"height":528,"color":"6","type":"text","text":""},
+		{"id":"97112b8cbb9d3376","x":10,"y":-1420,"width":460,"height":528,"color":"6","type":"text","text":""},
+		{"id":"c1bc4e6aa2afb359","x":525,"y":-1420,"width":420,"height":528,"color":"6","type":"text","text":""},
+		{"id":"ec6c6ee355732a6f","x":-405,"y":-800,"width":250,"height":140,"color":"3","type":"text","text":"## $$F=k\\cdot\\frac{q_{1}\\cdot q_{2}}{d²}$$"}
+	],
+	"edges":[
+		{"id":"5b951bc135c116e2","fromNode":"4fc1e32dddedfcc1","fromSide":"left","toNode":"f2a039906101782b","toSide":"top","color":"4"},
+		{"id":"b2d4b9ce748cf046","fromNode":"4fc1e32dddedfcc1","fromSide":"bottom","toNode":"869e2efa665b5fa7","toSide":"top","color":"4"},
+		{"id":"25e55215a7043af8","fromNode":"4fc1e32dddedfcc1","fromSide":"right","toNode":"3380e8c8e5fb3a1e","toSide":"top","color":"4"},
+		{"id":"dde2e5c983139917","fromNode":"4fc1e32dddedfcc1","fromSide":"right","toNode":"2d2a17d763fe6a5d","toSide":"top","color":"4"},
+		{"id":"fca31a62a96e90ec","fromNode":"f2a039906101782b","fromSide":"bottom","toNode":"2bde2ef6834f99de","toSide":"top","color":"6"},
+		{"id":"4a5f19ac1d232ab1","fromNode":"869e2efa665b5fa7","fromSide":"bottom","toNode":"9c75d1e9b809de89","toSide":"top","color":"6"},
+		{"id":"28542baea40aeff7","fromNode":"2d2a17d763fe6a5d","fromSide":"bottom","toNode":"412403d3b91bbcb1","toSide":"top","color":"6"},
+		{"id":"30fc19ae86260955","fromNode":"3380e8c8e5fb3a1e","fromSide":"bottom","toNode":"0eb7d8f343b03978","toSide":"top","color":"6"},
+		{"id":"7ec596d5b052377e","fromNode":"4fc1e32dddedfcc1","fromSide":"left","toNode":"149b933723f9802e","toSide":"top","color":"4"},
+		{"id":"861bcdef45227987","fromNode":"149b933723f9802e","fromSide":"bottom","toNode":"5a284b7e0c1d2b08","toSide":"top","color":"6"},
+		{"id":"874c897eac6b7573","fromNode":"4fc1e32dddedfcc1","fromSide":"left","toNode":"ec6c6ee355732a6f","toSide":"bottom","color":"4"},
+		{"id":"20a2e4780651d88a","fromNode":"4fc1e32dddedfcc1","fromSide":"top","toNode":"cf4aea12a6359833","toSide":"bottom","color":"4"},
+		{"id":"3316ed46af702abf","fromNode":"4fc1e32dddedfcc1","fromSide":"right","toNode":"71b8d2b32b7f2f0f","toSide":"bottom","color":"4"},
+		{"id":"d19a3526f5e6d142","fromNode":"ec6c6ee355732a6f","fromSide":"top","toNode":"55eb3fcd8e0174c7","toSide":"bottom","color":"6"},
+		{"id":"4c6cb40e2dbb9248","fromNode":"cf4aea12a6359833","fromSide":"top","toNode":"97112b8cbb9d3376","toSide":"bottom","color":"6"},
+		{"id":"089135bc99f47d8b","fromNode":"71b8d2b32b7f2f0f","fromSide":"top","toNode":"c1bc4e6aa2afb359","toSide":"bottom","color":"6"}
+	]
+}

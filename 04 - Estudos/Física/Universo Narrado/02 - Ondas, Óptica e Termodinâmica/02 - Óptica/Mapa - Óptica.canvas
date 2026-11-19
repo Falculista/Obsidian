@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6331225f0652a731","type":"text","text":"[scielo.br/j/ss/a/S4sMvKCkNw3QrQJkzdRFdvk/?format=pdf&lang=pt](https://www.scielo.br/j/ss/a/S4sMvKCkNw3QrQJkzdRFdvk/?format=pdf&lang=pt)","x":-170,"y":-339,"width":372,"height":99,"color":"4"},
+		{"id":"7c81e4f4c9310ae4","type":"text","text":"Dois grandes momentos:\n- Antiguidade\n- Século $XIII$","x":-806,"y":-421,"width":320,"height":162,"color":"6"},
+		{"id":"98bd125bf0c72cd2","type":"text","text":"- Fenômeno óptico ->  qualquer evento observável ​​que resulte da interação entre a luz e a matéria. Possui pelo menos três constituintes: objeto; receptor; e meio.\n\t- Objeto: autoexplicativo.\n\t- Receptor: olho ou câmera.\n\t- Meio: ar, água, etc.\n- Portanto, um fenômenos óptico pode ser considerado:\n\t- Fenômeno físico -> por conta da relação entre o objeto e o olho que o vê.\n\t- Fenômeno fisiológico e anatômico -> pois o objeto só é percebido pelo olho de acordo com seus mecanismos internos.\n\t- Fenômeno psicológico -> por conta da representação do objeto visto por quem o vê.\n\t- Fenômeno geométrico -> por conta das linhas (que são os feixes de luz) e ângulos formados no interior do olho.","x":-551,"y":40,"width":513,"height":640,"color":"6"},
+		{"id":"02333be7caabf090","type":"text","text":"# O que é Óptica?","x":-394,"y":-140,"width":200,"height":120,"color":"6"}
+	],
+	"edges":[
+		{"id":"79ccab9ef547f0a6","fromNode":"02333be7caabf090","fromSide":"top","toNode":"6331225f0652a731","toSide":"left","color":"4"},
+		{"id":"03eb3b3da031f10e","fromNode":"02333be7caabf090","fromSide":"left","toNode":"7c81e4f4c9310ae4","toSide":"bottom","color":"6"},
+		{"id":"55cb21172cc8462c","fromNode":"02333be7caabf090","fromSide":"bottom","toNode":"98bd125bf0c72cd2","toSide":"top","color":"6"}
+	]
+}

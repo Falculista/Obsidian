@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"f1cf927ea356b9b5","type":"text","text":"# Arte no Feudalismo\n$\\Large(V-XV)$","x":-125,"y":-30,"width":325,"height":110},
+		{"id":"d2884418eb8cf038","type":"text","text":"## Anonimato\n\nMuitas das obras produzidas não tem autores definidos. Um dos motivos é que os artistas da época acreditavam que o verdadeiro autor era Deus, pois ele expressava todas as vontades dos seres humanos.\n\nEsse fenômeno pode ser observado na literatura medieval também, como é mencionado no mapa mental [[Literatura no Feudalismo.canvas|Literatura no Feudalismo]]","x":-185,"y":-400,"width":445,"height":300},
+		{"id":"5b14551dd4fd271c","x":840,"y":-100,"width":420,"height":500,"type":"text","text":"## Música Sacra\n\nMúsicas de teor religioso comumente performada em ambientes como Igrejas, durante as missas, e mosteiros. \n\n![[mosteiro_de_grijó.png|center|300]]\n<p style=\"font-size:10;text-align:center\">Mosteiro de Grijó, Portugal.<br> Mosteiros são habitações construídas para membros de ordens religiosas<br>Imagem de Domínio Público</p>\nEssas músicas eram muitas vezes cantadas por monges."},
+		{"id":"d3911bb3c4749520","x":840,"y":-880,"width":420,"height":480,"type":"text","text":"## Música Profana\n\nA Música Profana se contrapõe à Música Sacra.\nEla é uma música de teor não religioso, praticada em festas nos castelos, ruas e tavernas.\nEla começou a se desenvolver no final do feudalismo, num contexto onde a igreja estava perdendo poder\n\nNão há muitos registros dessas canções devido à alta taxa de analfabetismo da época. Em contrapartida, músicas religiosas foram bem preservadas.\n"},
+		{"id":"b8657585d2b9ad1d","type":"text","text":"## Música\n\nOs principais temas musicais eram passagens bíblicas, vida de santos, rezas e orientações religiosas. Isso se deve à influência da igreja sobre qualquer tipo de arte.\n\nCom o passar do tempo, no final do feudalismo, a igreja foi perdendo seu poder, o que deu oportunidade da **Música Profana** se popularizar","x":320,"y":-400,"width":460,"height":300},
+		{"id":"141db210d4f535bc","type":"text","text":"## Arte Gótica","x":320,"y":160,"width":460,"height":480},
+		{"id":"e6d1dc9cf54d216d","x":-860,"y":760,"width":350,"height":540,"type":"text","text":"## Arquitetura\n\nA arquitetura era feita com defesa em proteção, por exemplo, as igrejas possuíam poucas janelas, paredes grossas e poucas entradas de luz. Um dos motivos disso é o fato das igrejas românicas não serem construídas nos centros urbanos, e sim nos campos."},
+		{"id":"79969488c1ae8674","x":-440,"y":760,"width":360,"height":540,"type":"text","text":"## Pinturas"},
+		{"id":"259ef6c082c34998","type":"text","text":"## Arte Românica\n\nAs origens da arte românica nos levam à Roma antiga, portanto, devemos relembrar como era a arte romana:\n- ***Valorização do realismo***: com representações precisa de características individuais em suas obras;\n- ***Arquitetura***: Os romanos eram conhecidos por sua arquitetura. Eles faziam vasto uso de pilares e arcos, que acabaram permanecendo na arte românica, que se desenvolveu na Baixa Idade Média, nos séculos $V-IX$\n\nA arquitetura era feita com defesa em proteção, por exemplo, as igrejas possuíam poucas janelas, paredes grossas e poucas entradas de luz. Um dos motivos disso é o fato das igrejas românicas não serem construídas nos centros urbanos, e sim nos campos.","x":-720,"y":160,"width":490,"height":480},
+		{"id":"bb1502065d47214c","x":120,"y":760,"width":430,"height":540,"type":"text","text":"## Godos\n\nGodos são um povo que se originaram na Escandinávia em Gotland (Atual Suécia). "},
+		{"id":"49b86c2b756e3ddd","type":"text","text":"## Contexto\n\nA arte medieval foi desenvolvida com muita influência da Igreja Católica, que era a instituição predominante da época. \n\nDessa forma, a arte durante esse período se baseava fortemente no **Teocentrismo**, a crença que Deus é o centro do universo.\n\nA Igreja supervisionava, orientava e filtrava todas as obras artísticas da época.\n\n","x":-185,"y":160,"width":445,"height":340}
+	],
+	"edges":[
+		{"id":"0e014880fd6b7e79","fromNode":"f1cf927ea356b9b5","fromSide":"right","toNode":"141db210d4f535bc","toSide":"top"},
+		{"id":"87151a8b2a8a1f96","fromNode":"f1cf927ea356b9b5","fromSide":"left","toNode":"259ef6c082c34998","toSide":"top"},
+		{"id":"708100860ad5c41d","fromNode":"f1cf927ea356b9b5","fromSide":"bottom","toNode":"49b86c2b756e3ddd","toSide":"top"},
+		{"id":"e8bc720a3127c820","fromNode":"f1cf927ea356b9b5","fromSide":"right","toNode":"b8657585d2b9ad1d","toSide":"bottom"},
+		{"id":"6c90fd5f72942249","fromNode":"259ef6c082c34998","fromSide":"bottom","toNode":"e6d1dc9cf54d216d","toSide":"top"},
+		{"id":"7f1aca335964e542","fromNode":"259ef6c082c34998","fromSide":"bottom","toNode":"79969488c1ae8674","toSide":"top"},
+		{"id":"aee8983bb0ca6435","fromNode":"b8657585d2b9ad1d","fromSide":"right","toNode":"5b14551dd4fd271c","toSide":"top"},
+		{"id":"8f687a86accbd159","fromNode":"b8657585d2b9ad1d","fromSide":"right","toNode":"d3911bb3c4749520","toSide":"bottom"},
+		{"id":"097f70fef9fb6d60","fromNode":"141db210d4f535bc","fromSide":"bottom","toNode":"bb1502065d47214c","toSide":"top"},
+		{"id":"d065fb289d1713b7","fromNode":"f1cf927ea356b9b5","fromSide":"top","toNode":"d2884418eb8cf038","toSide":"bottom"}
+	]
+}

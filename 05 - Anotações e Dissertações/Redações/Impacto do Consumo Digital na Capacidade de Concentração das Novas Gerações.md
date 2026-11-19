@@ -1,0 +1,30 @@
+## Impacto do Consumo Digital na Capacidade de Concentração das Novas Gerações
+
+De acordo com um estudo publicado na revista científica ScienceDirect, o uso de smartphones possui relação direta com a redução da substância cinzenta no cérebro, responsável pela atenção e controle de impulsos. Simultaneamente, um estudo realizado pelo The World Bank relatou que o Brasil é o terceiro país que mais utiliza celular no mundo. Ao sobrepor esses dados, se torna tangível a razão pela qual diversas pessoas relatam possuir problemas de atenção e um baixo controle de impulsos. Frente a essa situação, é vital a discussão de ações de órgãos governamentais como o Ministério da Educação e o Ministério da Saúde para com a conscientização do uso exagerado dessas tecnologias.
+
+Acerca da perca intelectual que ocorre na população frente ao uso exagerado de celulares, isso se mostra também predominantemente no modo como a nossa sociedade valoriza símbolos de riqueza e fama mas ignoram aqueles que contribuem tanto de forma intelectual quanto artística no nosso país. Exemplos do primeiro tipo são jogadores de futebol como Neymar ou influenciadores como a Virgínia, que possuem um crescimento quase exponencial de seguidores, mesmo possuindo um conteúdo fútil e raso. Em contrapartida, exemplos do segundo tipo são pesquisadores como o neurocientista brasileiro Miguel Nicolelis, o qual projetou tecnologias capazes de fazer pessoas antes incapacitadas de andar a realizar esses movimentos novamente por meio de próteses tecnológicas, o qual Elon Musk usou como referência no desenvolvimento do seu projeto Neuralink, e mesmo produzindo tal ciência de alto nível, ele se mostra pouco popular na mídia.
+
+Concomitantemente, o Brasil possui cada vez mais um índice maior de analfabetismo funcional. De acordo com o Sistema de Avaliação da Educação Básica (SAEB), mais de 95% dos alunos saem do Ensino Médio sem saber matemática básica, sendo que este valor vem crescendo cada vez mais, principalmente devido ao crescimento no uso de celulares em ambientes escolares, fragmentando sua atenção e, portanto, a capacidade de aprendizado do aluno. Além do crescimento visto em regiões periféricas no Brasil no uso de drogas, o que, juntamente ao uso de celulares, simboliza a perca de controle de impulsos do jovem brasileiro, que se vê inserido em um ambiente disfuncional e capaz de o induzir a usar essas substâncias.
+
+Sob essas perspectivas, se faz necessário a intervenção dos órgãos citados anteriormente, principalmente por meio da conscientização nas próprias redes sociais, com postagens e ampliação na divulgação das pesquisas antes citadas afim de reduzir a taxa de dispersão de atenção das pessoas no país, a dificuldade de aprendizado, o analfabetismo funcional e o controle de impulsos que podem levar ao uso de substâncias ilícitas. Embora não somente caiba a esses órgãos tais ações, como também a própria população, como fez o Felca ao levantar questionamentos acerca da exibição exagerada de menores de idade nas redes, o que impulsionou a famosa Lei Felca, restringindo o uso dessas crianças nas redes sociais. Ademais, devemos sempre priorizar o avanço intelectual das novas gerações, o que requer, evidentemente, uma discussão mais assídua acerca destes temas, que contribuem para o afastamento do jovem brasileiro de suas plenas capacidades mentais.
+
+---
+
+### Conclusão = 640/1000 (médio)
+
+- Acumulei repertórios e não aprofundei nenhum deles no mesmo parágrafo. O molde que devo começar a usar é:
+
+  > **Tópico frasal** (a ideia do parágrafo, com palavra-chave do tema) → **repertório** (1, e certo) → **explicação**: _por que_ e _como_ isso acontece → **fechamento** ligando de volta ao tema.
+
+
+---
+
+## Modelo Nota 1000 por Claude:
+
+Em "Sociedade do Cansaço", o filósofo sul-coreano Byung-Chul Han descreve a "hiperatenção" como um estado de foco disperso, no qual o indivíduo salta rapidamente entre tarefas e estímulos sem se aprofundar em nenhum deles. Esse diagnóstico ajuda a compreender o impacto do consumo digital sobre as novas gerações, cuja capacidade de concentração tem sido comprometida. Tal cenário decorre, principalmente, do modelo de negócio das plataformas digitais e da falta de uma educação que prepare os jovens para lidar com elas.
+
+Em primeiro lugar, as plataformas são projetadas para capturar a atenção do usuário pelo maior tempo possível. Já em 1971, o economista Herbert Simon alertava que a abundância de informação gera escassez de atenção, princípio que hoje sustenta a chamada "economia da atenção". Nesse modelo, recursos como vídeos curtos e rolagem infinita oferecem recompensas rápidas e constantes, o que torna atividades que exigem esforço prolongado, como a leitura de um livro, cada vez menos atraentes. Desse modo, o jovem não perde a concentração por falta de vontade, mas porque é treinado diariamente para a dispersão.
+
+Além disso, a escola brasileira ainda prepara pouco os estudantes para usar essas tecnologias de forma consciente. Em "A Geração Ansiosa", o psicólogo Jonathan Haidt argumenta que a troca de uma infância baseada no brincar por uma "infância baseada no celular" prejudicou o desenvolvimento emocional e cognitivo dos jovens. Nesse sentido, a Lei 15.100/2025, que restringiu o uso de celulares nas escolas, representa um avanço, mas é insuficiente sozinha: retirar o aparelho da sala de aula não ensina o aluno a controlar seu uso fora dela. Sem educação digital, portanto, o problema apenas muda de lugar.
+
+Logo, é necessário proteger a capacidade de concentração das novas gerações. Para isso, o Ministério da Educação deve incluir a educação digital no currículo do ensino básico, por meio de aulas semanais em que os alunos aprendam como os algoritmos são construídos para prender sua atenção e pratiquem a leitura de textos longos. Essas aulas devem ser conduzidas por professores capacitados em parceria com universidades públicas, a fim de formar jovens capazes de usar a tecnologia sem serem dominados por ela. Assim, a "hiperatenção" descrita por Han poderá dar lugar, novamente, à atenção profunda.
