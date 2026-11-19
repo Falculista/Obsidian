@@ -46,8 +46,8 @@
               "state": {
                 "file": "00 - Banco de Imagens/Drawing 2026-11-02 18.40.21.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-02 18.40.21.excalidraw"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -65,15 +65,13 @@
             }
           },
           {
-            "id": "ea8bcc909c67df59",
+            "id": "8940a4bf36b1bfea",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.1"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.15.1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ],
@@ -241,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 695.6666870117188
+    "width": 695.6666870117188,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,11 +258,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea8bcc909c67df59",
+  "active": "cf293b84c14e5951",
   "lastOpenFiles": [
+    "Sem título",
+    "04 - Estudos/Matemática/05 - Cálculo/01 - Introdução/02 - O método da Exaustão e Arquimedes.md",
     "00 - Banco de Imagens/Pasted image 20261102190637.png",
     "00 - Banco de Imagens/Drawing 2026-11-02 18.40.21.excalidraw.md",
-    "04 - Estudos/Matemática/05 - Cálculo/01 - Introdução/02 - O método da Exaustão e Arquimedes.md",
     "00 - Banco de Imagens/Pasted image 20261102190539.png",
     "04 - Estudos/História/03 - Idade Média/Iluminismo.canvas",
     "04 - Estudos/História/03 - Idade Média/Mercantilismo.canvas",
@@ -288,7 +288,6 @@
     "00 - Banco de Imagens/Pasted image 20261101143214.png",
     "00 - Banco de Imagens/Pasted image 20261101120636.png",
     "00 - Banco de Imagens/Pasted image 20261101120610.png",
-    "00 - Banco de Imagens/Pasted image 20261101115956.png",
     "00 - Banco de Imagens/Drawing 2026-10-31 23.49.34.excalidraw.md",
     "00 - Banco de Imagens/Drawing 2026-11-01 00.39.57.excalidraw.md",
     "02 - Inbox/Microeconomia e Macroeconomia (diferença).md",
