@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBook",
       "LiFlaskConical",
       "LiDna",
       "LiCpu",
-      "LiCastle",
-      "LiScale"
+      "LiCastle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,5 +49,6 @@
   "04 - Estudos/Política": "LiScale",
   "04 - Estudos/Computação": "LiCpu",
   "04 - Estudos/Biologia": "LiDna",
-  "04 - Estudos/Química": "LiFlaskConical"
+  "04 - Estudos/Química": "LiFlaskConical",
+  "06 - Livros": "LiBook"
 }
